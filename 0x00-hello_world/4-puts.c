@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main is printing out a string from the command puts
+ * main - is printing out a string from the command puts
  */
 int main(void)
 {
