@@ -1,5 +1,7 @@
 #include <stdio.h>
-/* hi */
+/**
+ * main is printing out a string from the command puts
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle\n");
